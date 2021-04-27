@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kawde</h1>
 
 - 💬 Ask me about **Python, Bootstrap, HTML**
-- - 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **vaishnavikawde@gmail.com**
 
 
